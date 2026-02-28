@@ -24,7 +24,7 @@ export default function Leaderboard() {
                                 Coordinate raids, trade loot, and survive the abyss. New recruits get a starter kit!
                             </p>
                             <a
-                                href="https://discord.gg/yourserver"
+                                href="https://discord.com/invite/fakepixel"
                                 className="mc-button mc-button-red discord-btn"
                                 target="_blank"
                                 rel="noopener noreferrer"

@@ -10,6 +10,7 @@ const ranks = [
         color: '#cc0000',
         popular: false,
         perks: [
+            { icon: '★', text: 'A Discord Role' },
             { icon: '⚔', text: 'Access to Abyss Kits' },
             { icon: '⚡', text: '2x XP Multiplier' },
             { icon: '◆', text: 'Bronze Pet Tag' },

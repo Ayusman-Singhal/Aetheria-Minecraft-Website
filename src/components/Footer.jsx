@@ -13,7 +13,7 @@ export default function Footer() {
                             A cinematic dark fantasy experience. Forge your path. Survive or become part of the abyss.
                         </p>
                         <div className="footer-socials">
-                            <a href="#" className="social-link" aria-label="Discord">
+                            <a href="https://discord.com/invite/fakepixel" className="social-link" aria-label="Discord" target="_blank" rel="noopener noreferrer">
                                 <img src="/images/discord.png" alt="Discord" className="social-icon-img" />
                             </a>
                             <a href="#" className="social-link" aria-label="Twitter">@</a>

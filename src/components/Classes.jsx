@@ -20,7 +20,7 @@ const classes = [
     {
         name: 'SHADOW BERSERKER',
         subtitle: 'Aspect of Chaos',
-        desc: 'Unleashes high DPS through raw fury and shadow-infused strikes. Sacrifices sanity for immense power.',
+        desc: 'Unleashes high DPS through raw fury and shadow-infused strikes.',
         img: char03,
     },
     {
